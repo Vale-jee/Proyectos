@@ -12,3 +12,4 @@ C:\Users\parap\OneDrive\Documents\Proyectos\Semana 2\Datos_Primitivos\obj\Debug\
 C:\Users\parap\OneDrive\Documents\Proyectos\Semana 2\Datos_Primitivos\obj\Debug\net9.0\Datos_Primitivos.pdb
 C:\Users\parap\OneDrive\Documents\Proyectos\Semana 2\Datos_Primitivos\obj\Debug\net9.0\Datos_Primitivos.genruntimeconfig.cache
 C:\Users\parap\OneDrive\Documents\Proyectos\Semana 2\Datos_Primitivos\obj\Debug\net9.0\ref\Datos_Primitivos.dll
+C:\Users\parap\OneDrive\Documents\Proyectos\Semana 2\Datos_Primitivos\obj\Debug\net9.0\Datos_Primitivos.sourcelink.json
